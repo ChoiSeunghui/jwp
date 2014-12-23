@@ -3,6 +3,7 @@ package next.model;
 import java.util.Date;
 
 public class Answer {
+	//answerId writer contents createdDate questionId
 	private long answerId;
 	
 	private String writer;

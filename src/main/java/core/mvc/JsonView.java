@@ -18,5 +18,4 @@ public class JsonView implements View {
 		PrintWriter out = response.getWriter();
 		out.print(gson.toJson(model));
 	}
-
 }
