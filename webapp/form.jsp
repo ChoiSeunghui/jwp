@@ -4,7 +4,7 @@
 <head>
 <%@ include file="/include/header.jspf"%>
 </head>
-<body>
+<body> 
 	<div id="main">
 		<c:set var="method" value="post" />
 				
